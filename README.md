@@ -6,7 +6,7 @@ Electron app opener is an experimental project that attempts to open `.exe` file
 ### Download
 ---------
 
-You can download the latest version of Electron App Opener from the [https://github.com/Codemaster-AR/electron-app-opener/releases/tag/v1.0.0](https://github.com/Codemaster-AR/electron-app-opener/releases/tag/v1.0.0). Please note that we only provide the `v1.0.0` release at the moment.
+You can download the latest version of Electron App Opener from [https://github.com/Codemaster-AR/electron-app-opener/releases/tag/v1.0.0](https://github.com/Codemaster-AR/electron-app-opener/releases/tag/v1.0.0). Please note that we only provide the `v1.0.0` release at the moment.
 
 ### How it Works
 -------------
